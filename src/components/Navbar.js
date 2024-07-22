@@ -2,7 +2,6 @@ import React from 'react';
 import { Outlet, Link } from "react-router-dom";
 
 const Navbar = () => {
-  
   return (
     <div>
       <nav class="bg-white border-gray-200 dark:bg-gray-900">
